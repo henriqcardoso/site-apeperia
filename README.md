@@ -1,4 +1,10 @@
-<h1 align="center">
+<style>
+.logo {
+   background: #1e2c35;
+}
+</style>
+
+<h1 align="center" class = logo>
    <img src = imagens/logo.png>
 </h1>
 
