@@ -1,5 +1,5 @@
 <h1 align="center">
-   <img src = imagens/logo2.png>
+   Apeperia
 </h1>
 
 <h1>
